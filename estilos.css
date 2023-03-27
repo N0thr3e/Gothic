@@ -1,0 +1,44 @@
+html{
+	cursor: crosshair;
+}
+head, body{
+	background: black;
+}
+h1{
+	color: rgb(255,0,0);
+	font-size: 40px;
+	text-align: center;
+	font-family: verdana;
+	background: gold;
+	border: 5px white ridge;
+}
+li, td{
+	color: white;
+	list-style-type:  circle;
+}
+.rojo{
+	color: red;
+}
+td{
+	border: 5px white solid;
+}
+
+table{
+	border-collapse: collapse;
+}
+p{
+	color: white;
+}
+img{
+	border: 5px white double;
+}
+h2{
+	color: black;
+	font-family: verdana;
+	background: gold;
+	border: 5px white ridge;
+}
+.centro{
+	position: relative;
+	left: 740px;
+}
